@@ -42,12 +42,13 @@ the area. This software can also be connected to the entrance gates
 and only people wearing face masks can come in.
 
 # MODULES/LIBRARIES USED
-• OPEN CV
+# • OPEN CV
 OpenCV is a cross-platform library using which we can develop
 real-time computer vision applications. It mainly focuses on image
 processing, video capture and analysis including features like face
 detection and object detection
-• IBM WATSON
+
+# • IBM WATSON
 Watson Visual Recognition makes it easy to extract thousands of
 labels from your organization’s images and detect for specific
 content out-of-the-box. You can also build custom models to
